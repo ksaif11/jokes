@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: rgb(180, 142, 85);
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: rgb(147, 177, 138);
+    padding: 20px;
+    
+}
+h1{
+    font-size: 50px;
+    color: rgb(163, 79, 93);
+}
+h2{
+    margin: 25px 0 25px 0;
+    padding: 10px;
+}
+button{
+    display: flex;
+    font-size: 20px;
+    background-color:rgb(60, 93, 122);
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+#jk1{
+    background-color: #fff;
+    border-radius: 10%;
+    padding: 25px;
+}
+#value{
+    margin: 10px;
+
+}
